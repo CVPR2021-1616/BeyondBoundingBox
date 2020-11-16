@@ -1,7 +1,7 @@
 # CVPR2021-1616
 
 ## Introduction
-The code includes training and inference procedures for **Beyond Bounding-Boxes: Convex-hull Feature Adaptation for Oriented and Densely Packed Object Detection**.
+The code includes training and inference procedures for **Beyond Bounding-Box: Convex-hull Feature Adaptation for Oriented and Densely Packed Object Detection**.
 
 ## Installation
 Detection framework is based on the [MMDetection v1.1.0](https://github.com/open-mmlab/mmdetection/tree/v1.1.0).
